@@ -1,2 +1,2 @@
 # Disney-Clone
-Disney+ Clone made using html, css and js - theabhiinavgarg.github.io/Disney/
+Disney+ Clone made using html, css and js - https://theabhiinavgarg.github.io/Disney/
